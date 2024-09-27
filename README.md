@@ -10,4 +10,5 @@ myhomepage.html<br>
 coffee1.html<br>
 coffee2.html<br>
 ex13.html<br>
+ex02.html<br>
 <hr>

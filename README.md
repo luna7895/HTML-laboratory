@@ -6,5 +6,7 @@ table_ex1.html <br>
 video1.html <br>
 video2.html <br>
 audio.html <br>
-myhomepage.html
+myhomepage.html<br>
+coffee1.html<br>
+coffee2.html
 <hr>

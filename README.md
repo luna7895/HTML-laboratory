@@ -6,3 +6,4 @@ table_ex1.html <br>
 video1.html <br>
 video2.html <br>
 audio.html
+<hr>
